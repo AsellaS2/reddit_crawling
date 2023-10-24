@@ -2,4 +2,5 @@
 
 ### 동적웹사이트 reddit 크롤링 하기
 reddit web_site crawling 
-![](https://github.com/AsellaS2/reddit_crawling/assets/69001369/c466438b-db99-43f2-9365-f1409822b16f)
+
+![](https://github.com/AsellaS2/reddit_crawling/assets/69001369/801245d7-102c-4d56-8945-d5a44d645838)
